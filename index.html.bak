@@ -1,0 +1,98 @@
+
+
+<!DOCTYPE HTML>
+<html lang="en-US"><head>
+  <!-- Kode menampilkan peringatan untuk mengaktifkan javascript-->
+</head><body style="cursor: default;"><div align="center"><noscript>
+  <div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+  <div style="font-family: Arial; font-size: 17px; padding: 11pt;"></div></div>
+</noscript></div>
+
+<!--Kode untuk mencegah seleksi teks, block teks dll.-->
+<script type="text/javascript">
+function disableSelection(e){if(typeof e.onselectstart!="undefined")e.onselectstart=function(){return false};else if(typeof e.style.MozUserSelect!="undefined")e.style.MozUserSelect="none";else e.onmousedown=function(){return false};e.style.cursor="default"}window.onload=function(){disableSelection(document.body)}
+</script>
+
+<!--Kode untuk mematikan fungsi klik kanan di blog-->
+<script type="text/javascript">
+function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
+</script>
+
+<style type="text/css">
+* : (input, textarea) {
+   -webkit-touch-callout: none;
+   -webkit-user-select: none;
+
+}
+</style>
+<style type="text/css">
+img {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+   }
+</style>
+
+<!--Kode untuk mencegah shorcut keyboard, view source dll.-->
+<script type="text/javascript">
+window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+</script>
+<script type="text/javascript">
+document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+</script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Watch Sexy Girls Nude Dancing for You</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+<header>
+  <div class="overlay"></div>
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="https://video.twimg.com/ext_tw_video/1495193381009514505/pu/vid/720x1280/ZvzNjavgOjXOLLJO.mp4?tag=12" type="video/mp4">
+  </video>
+  <div class="container h-100">
+    <div class="d-flex h-100 text-center align-items-center">
+      <div class="w-100 text-white">
+        <h1 class="display-3"><strong>Watch More</h1><strong>
+        <p class="lead mb-0">Sexy and Beauty Girls Exposed for You</p>
+        <p>
+            <a href="https://mrbwrw.milfshorny.com/c/da57dc555e50572d?s1=128335&s2=1410449&click_id=EMINEM" class="btn btn-danger btn-lg mt-5">Click To Watch</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  var message="";
+  function clickIE4(){
+    if(event.button==2){
+      alert(message);
+      return false;
+    }
+  }
+  function clickNS4(e){
+    if(document.layers||document.getElementById&&!document.all){
+      if(e.which==2||e.which==3){
+        alert(message);
+        return false;
+      }
+    }
+  }
+  if(document.layers){
+    document.captureEvents(Event.MOUSEDOWN);
+    document.onmousedown=clickNS4;
+  }else if(document.all&&!document.getElementById){
+    document.onmousedown=clickIE4;
+  }
+  document.oncontextmenu=new Function("alert(message);return false");
+</script>
+</body>
+</html>
